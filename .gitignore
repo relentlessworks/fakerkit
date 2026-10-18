@@ -1,0 +1,6 @@
+fakerkit
+*.exe
+*.dll
+*.so
+*.dylib
+
